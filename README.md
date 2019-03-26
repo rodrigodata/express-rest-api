@@ -5,8 +5,9 @@
 - Mongoose 5.4.15
 - Joi 14.3.1
 
-# Variáveis de ambiente
+# Configuração
 ```sh
+# Variáveis de ambiente
 DB_HOST={{url_mongodb}}
 SECRET_API={{token}}
 DICIONARIO={{dicionario_senha}}
