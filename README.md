@@ -6,11 +6,15 @@
 - Joi 14.3.1
 
 # Variáveis de ambiente
-`DB_HOST={{url_mongodb}}`\n
-`SECRET_API={{token}}`\n
-`DICIONARIO={{dicionario_senha}}`\n
+```sh
+DB_HOST={{url_mongodb}}
+SECRET_API={{token}}
+DICIONARIO={{dicionario_senha}}
 
 # Rodar aplicação
-`npm run start:dev`
+npm run start:dev
+```
+
+
 
   
