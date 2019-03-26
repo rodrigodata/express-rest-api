@@ -5,7 +5,7 @@
 - Mongoose 5.4.15
 - Joi 14.3.1
 
-# Configuração
+# Configuração Inicial
 ```sh
 # Variáveis de ambiente
 DB_HOST={{url_mongodb}}
