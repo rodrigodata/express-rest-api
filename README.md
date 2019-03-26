@@ -12,7 +12,7 @@ DB_HOST={{url_mongodb}}
 SECRET_API={{token}}
 DICIONARIO={{dicionario_senha}}
 
-# Rodar aplicação
+# Rodar aplicação 
 npm run start:dev
 ```
 
